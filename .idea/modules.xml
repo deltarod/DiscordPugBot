@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DiscordPugBot.iml" filepath="$PROJECT_DIR$/.idea/DiscordPugBot.iml" />
+      <module fileurl="file://$USER_HOME$/Rando/FuckValorant/.idea/FuckValorant.iml" filepath="$USER_HOME$/Rando/FuckValorant/.idea/FuckValorant.iml" />
+    </modules>
+  </component>
+</project>
